@@ -1,0 +1,6 @@
+{
+  "name": "WebShowcase - Student Assignment & Project Directory",
+  "description": "Awwwards-style directory and submission portal for student website projects and slides with automated preview thumbnails, Google Sheets sync, and lecturer evaluation workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
